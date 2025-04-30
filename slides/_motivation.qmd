@@ -2,11 +2,11 @@
 ![]( images/Climate_Models.svg )
 ![]( images/neural_net_3b1b.jpeg ){style="border-radius: 50%;" .absolute bottom=7% left=56% width=25% height=21%}
 
-![](https://nps.edu/documents/10180/113643263/nps-tschneider-gclimatemodel-grid.jpg/de62c0fe-c76f-42e7-abdf-3143935b1fb3?t=1551741588000.png ){ .absolute top=10% left=86% width=25% height=22%}
+![](https://nps.edu/documents/10180/113643263/nps-tschneider-gclimatemodel-grid.jpg/de62c0fe-c76f-42e7-abdf-3143935b1fb3?t=1551741588000.png ){ .absolute top=10% left=83% width=27% height=24%}
 
 
 ::: {.attribution}
-Climate components scheme courtesy of Jack Atkinson.
+[Climate components diagram](https://jackatkinson.net/slides/images/Climate_Models.svg) courtesy of Jack Atkinson.
 
 Globe grid with box by Caltech under Fair use.
 
@@ -15,15 +15,9 @@ Neural Net by [3Blue1Brown]( https://www.3blue1brown.com/topics/neural-networks 
 
 
 ::: {.notes}
- How do you use AI in your research, or what do you need from AI?
- Idea behind hybrid modelling, specifically subgrid ML components for existing models
-
-<!-- ![]( images/neural_net_3b1b.jpeg ){style="border-radius: 50%;" .absolute bottom=7% left=56% width=25% height=21%} -->
-
  - Climate Models are made of many different components
  - Hybrid approach
      - Subrid scale (ML) parametrization
-https://nps.edu/documents/10180/113643263/nps-tschneider-gclimatemodel-grid.jpg/de62c0fe-c76f-42e7-abdf-3143935b1fb3?t=1551741588000.png
 :::
 
 
