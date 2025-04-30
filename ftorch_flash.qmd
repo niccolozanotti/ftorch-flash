@@ -1,0 +1,55 @@
+---
+output-file: index
+
+title: "FTorch: A library to couple PyTorch ML models with Fortran climate models"
+subtitle: AI for Climate & Nature Community Day
+# footer: \#TODO set me
+
+authors:
+  - name: "<u>Niccolò Zanotti</u>"
+    orcid: 0009-0003-6450-3184
+    affiliations: University of Bologna <br> ICCS - University of Cambridge
+  - name: "Jack Atkinson"
+    orcid: 0000-0001-5001-4812
+    affiliations: ICCS - University of Cambridge
+  - name: "Joe Wallwork"
+    orcid: 0000-0002-3646-091X
+    affiliations: ICCS - University of Cambridge
+  - name: "Tom Meltzer"
+    orcid: 0000-0003-1740-9550
+    affiliations: ICCS - University of Cambridge
+  - name: "Dominic Orchard"
+    orcid: 0000-0002-7058-7842
+    affiliations: University of Kent <br> ICCS - University of Cambridge
+date: "2025-05-01"
+# bibliography: references.bib
+
+format:
+  revealjs:
+    embed-resources: false
+    slide-number: false
+    chalkboard: false
+    preview-links: auto
+    history: false
+    highlight-style: a11y
+    code-overflow: wrap
+    code-line-numbers: false
+    logo: images/ICCS_UniOfCam_logo.jpg
+    theme: [default, custom.scss]
+    smaller: true
+
+revealjs-plugins:
+   - attribution
+---
+
+## Motivation : Hybrid modeling
+
+{{< include _motivation.qmd >}}
+
+<!-- ------------------------------------------------------------------------------ -->
+
+{{< include _ftorch.qmd >}}
+
+<!-- ------------------------------------------------------------------------------ -->
+
+{{< include _collabs.qmd >}}
